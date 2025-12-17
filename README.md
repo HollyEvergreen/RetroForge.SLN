@@ -4,7 +4,11 @@
 #### Windows Build instructions
 
 ```powershell
-./setup.ps1
+git clone https://github.com/HollyEvergreen/Retro-Forge.git
+git clone https://github.com/HollyEvergreen/RetroForge.NET.git
+git clone https://github.com/HollyEvergreen/RetroForge.Examples.git
+
+
 cd Retro-Forge
 ./build.ps1
 dotnet run
