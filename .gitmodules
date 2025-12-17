@@ -1,0 +1,9 @@
+[submodule "RetroForge.Examples"]
+	path = RetroForge.Examples
+	url = https://github.com/HollyEvergreen/RetroForge.Examples.git
+[submodule "RetroForge.NET"]
+	path = RetroForge.NET
+	url = https://github.com/HollyEvergreen/RetroForge.NET.git
+[submodule "Retro-Forge"]
+	path = Retro-Forge
+	url = https://github.com/HollyEvergreen/Retro-Forge.git
